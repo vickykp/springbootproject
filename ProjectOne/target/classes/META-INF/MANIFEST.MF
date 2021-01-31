@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ProjectOne
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vicky
+Implementation-Vendor-Id: com.demo.vivek
+Build-Jdk: 1.8.0_275
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/project_one
+Created-By: Maven Integration for Eclipse
+
